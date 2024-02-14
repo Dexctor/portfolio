@@ -10,7 +10,7 @@ function Navbar() { // Nom du composant avec une majuscule
                     <Link to="/">Home</Link> {/* Ajoutez l'attribut to="" à vos Link */}
                     <Link to="/about">About</Link>
                     <Link to="/projects">Projects</Link>
-                    <Link to="/articles">Articles</Link>
+                   
                     <Link to="/contact">Contact</Link>
                 </nav>
             </div>

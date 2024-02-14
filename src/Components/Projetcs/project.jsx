@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-
+import '../../App.css'
 // Structure de données pour les projets
 const projectsData = [
   {

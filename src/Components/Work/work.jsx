@@ -3,50 +3,7 @@ import './index.css'
 function Work() {
     return (
         <div className="homepage-after-title">
-	<div className="homepage-articles">
-		<div className="homepage-article">
-			<div className="homepage-article">
-				<div className="homepage-article-content">
-					<div className="homepage-article-date">
-						|&nbsp;&nbsp;&nbsp;7 May 2023
-					</div>
-					<div className="homepage-article-title">
-						The Benefits of Cloud Computing
-					</div>
-					<div className="homepage-article-description">
-						Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.
-					</div>
-					<div className="homepage-article-link">
-						<a href="/article/1">
-							Read article 
-						
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div className="homepage-article">
-			<div className="homepage-article">
-				<div className="homepage-article-content">
-					<div className="homepage-article-date">
-						|&nbsp;&nbsp;&nbsp;7 May 2023
-					</div>
-					<div className="homepage-article-title">
-						Artificial Intelligence in Healthcare
-					</div>
-					<div className="homepage-article-description">
-						AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.
-					</div>
-					<div className="homepage-article-link">
-						<a href="/article/2">
-							Read article 
-						
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 	<div className="homepage-works">
 		<div className="works">
 			<div className="card">
